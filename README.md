@@ -4,7 +4,7 @@ JS Back-End Course Workshop @SoftUni
 ## Start project
 `npm run dev` - for developing
 
-## Developing Steps
+## Developing Steps - Workshop 1
  1. Initial Project Architecture
  2. Setup express
  3. Setup handlebars
@@ -17,3 +17,24 @@ JS Back-End Course Workshop @SoftUni
  10. Add Create page
  11. Add Details page
  12. Add Search page
+
+## Developing Steps - Workshop 2
+ 1. Extract init files
+ 2. Setup mongoose
+ 3. Add Movie model
+ 4. Convert file based storage to db storage
+ 5. Add Cast model
+ 6. Add create cast page
+ 7. Add attach cast page
+ 8. Show cast in details page
+   
+Bonus:
+ - [x] Rating helper
+ - [x] Fix filtering for movies
+ - [x] Filter cast based on added ones
+ - [x] Add character name
+ - [x] Atlas
+ - [x] env variable file
+
+Next time:
+ - [ ] Add model validations
